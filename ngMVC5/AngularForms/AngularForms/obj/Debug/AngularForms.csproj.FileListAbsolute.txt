@@ -1,0 +1,5 @@
+E:\Test\ngMVC5\AngularForms\AngularForms\bin\AngularForms.dll
+E:\Test\ngMVC5\AngularForms\AngularForms\bin\AngularForms.pdb
+E:\Test\ngMVC5\AngularForms\AngularForms\obj\Debug\AngularForms.csprojResolveAssemblyReference.cache
+E:\Test\ngMVC5\AngularForms\AngularForms\obj\Debug\AngularForms.dll
+E:\Test\ngMVC5\AngularForms\AngularForms\obj\Debug\AngularForms.pdb
